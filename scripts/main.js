@@ -1,4 +1,4 @@
 function myFunction()
 {
-    alert("我第一個 JavaScript ");
+    alert("我第一個js ");
 }
